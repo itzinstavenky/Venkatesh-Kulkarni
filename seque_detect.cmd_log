@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "E:/RTL DESIGN/Sequencedetector/seque_detect.xst" -ofn "E:/RTL DESIGN/Sequencedetector/seque_detect.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim seque_detect.ngc seque_detect_synthesis.v 
+xst -intstyle ise -ifn "E:/RTL DESIGN/Sequencedetector/seque_detect.xst" -ofn "E:/RTL DESIGN/Sequencedetector/seque_detect.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim seque_detect.ngc seque_detect_synthesis.v 

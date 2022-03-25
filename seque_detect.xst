@@ -1,0 +1,5 @@
+set -tmpdir "E:/RTL DESIGN/Sequencedetector/xst/projnav.tmp"
+set -xsthdpdir "E:/RTL DESIGN/Sequencedetector/xst"
+elaborate
+-ifn seque_detect.prj
+-ifmt mixed

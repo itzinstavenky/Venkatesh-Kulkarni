@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "E:/RTL DESIGN/Sequencedetector/seque_detect_test_isim_beh.exe" -prj "E:/RTL DESIGN/Sequencedetector/seque_detect_test_beh.prj" "work.seque_detect_test" "work.glbl" 
